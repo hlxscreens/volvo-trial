@@ -2,7 +2,7 @@
   "channels": [
     {
       "manifestPath": "/content/screens/loop/simple.manifest.json",
-      "lastModified": "2023-10-04T08:21:36.000Z",
+      "lastModified": "2023-10-04T08:56:34.304Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -15,7 +15,7 @@
       ],
       "externalId": "/content/screens/loop/simple",
       "title": "Volvo Trial Channel",
-      "liveUrl": "https://main--volvo-trial--hlxscreens.hlx.live/content/screens/loop/simple.html"
+      "liveUrl": "https://volvo-trial.aem-screens.net/content/screens/loop/simple.html"
     }
   ],
   "metadata": {
