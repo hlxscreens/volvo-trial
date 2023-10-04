@@ -1,4 +1,4 @@
-ame: Generate Screens offline resources for franklin channels
+name: Generate Screens offline resources for franklin channels
 
 on:
   repository_dispatch:
