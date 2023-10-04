@@ -9,11 +9,11 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1696407689940,
+  "timestamp": 1696409040243,
   "entries": [
     {
       "path": "/content/screens/loop/simple.html",
-      "timestamp": 1696407687115
+      "timestamp": 1696407696000
     },
     {
       "path": "/scripts/lib-franklin.js",
@@ -26,6 +26,10 @@
     {
       "path": "/styles/styles.css",
       "timestamp": 1696405374000
+    },
+    {
+      "path": "/content/screens/assets/media_158a2007a4dc4182580c7ce28b4d92dd2e1239321.mp4",
+      "timestamp": 1696405680000
     },
     {
       "path": "/content/screens/loop/media_1541c7aeb2be3241ec8f92f06661ecd67f4fffd85.png?width=750&format=png&optimize=medium",
