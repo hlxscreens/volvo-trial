@@ -58,7 +58,7 @@ indices:
         values: |
           attribute(el, 'href')
       assets:
-        select: head > link[rel*="preload"]
+        select: body a
         values: |
           attribute(el, 'href')
       inlineImages:
