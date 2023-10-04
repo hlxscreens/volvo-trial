@@ -1,0 +1,24 @@
+{
+  "channels": [
+    {
+      "manifestPath": "/content/screens/loop/simple.manifest.json",
+      "lastModified": "2023-07-18T07:13:45.000Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "loop",
+          "path": "/content/screens/loop"
+        }
+      ],
+      "externalId": "/content/screens/loop/simple",
+      "title": "Freshwater Channel",
+      "liveUrl": "https://main--partner-freshwater--hlxscreens.hlx.live/content/screens/loop/simple.html"
+    }
+  ],
+  "metadata": {
+    "providerType": "franklin"
+  }
+}

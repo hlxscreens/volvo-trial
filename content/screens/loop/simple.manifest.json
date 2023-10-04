@@ -1,0 +1,74 @@
+{
+  "version": "3.0",
+  "contentDelivery": {
+    "providers": [
+      {
+        "name": "franklin",
+        "endpoint": "/"
+      }
+    ],
+    "defaultProvider": "franklin"
+  },
+  "timestamp": 1689670396000,
+  "entries": [
+    {
+      "path": "/content/screens/loop/simple.html"
+    },
+    {
+      "path": "/scripts/lib-franklin.js",
+      "timestamp": 1689663660000
+    },
+    {
+      "path": "/scripts/scripts.js",
+      "timestamp": 1689663660000
+    },
+    {
+      "path": "/styles/styles.css",
+      "timestamp": 1689664425000
+    },
+    {
+      "path": "/content/screens/loop/media_10130149fcb73126bb31b4ba7cb39e90fc969798e.png?width=750&format=png&optimize=medium",
+      "hash": "10130149fcb73126bb31b4ba7cb39e90fc969798e"
+    },
+    {
+      "path": "/content/screens/loop/media_1323c43c95059445af89f1f2f34eb20553078faf7.png?width=750&format=png&optimize=medium",
+      "hash": "1323c43c95059445af89f1f2f34eb20553078faf7"
+    },
+    {
+      "path": "/content/screens/loop/media_184f666315cad875bbeadb9a9190e014c1e2df88b.png?width=750&format=png&optimize=medium",
+      "hash": "184f666315cad875bbeadb9a9190e014c1e2df88b"
+    },
+    {
+      "path": "/scripts/delayed.js",
+      "timestamp": 1689663660000
+    },
+    {
+      "path": "/blocks/columns/columns.css",
+      "timestamp": 1689663659000
+    },
+    {
+      "path": "/blocks/columns/columns.js",
+      "timestamp": 1689663659000
+    },
+    {
+      "path": "/blocks/menutable/menutable.js",
+      "timestamp": 1689663659000
+    },
+    {
+      "path": "/blocks/menutable/menutable.css",
+      "timestamp": 1689663659000
+    },
+    {
+      "path": "/blocks/menutable/qrcode.min.js",
+      "timestamp": 1689663659000
+    },
+    {
+      "path": "/blocks/loop/loop.js",
+      "timestamp": 1689664425000
+    },
+    {
+      "path": "/blocks/loop/loop.css",
+      "timestamp": 1689664425000
+    }
+  ]
+}
