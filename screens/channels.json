@@ -2,7 +2,7 @@
   "channels": [
     {
       "manifestPath": "/content/screens/loop/simple.manifest.json",
-      "lastModified": "2023-10-17T08:42:04.892Z",
+      "lastModified": "2023-10-17T08:42:05.000Z",
       "hierarchy": [
         {
           "title": "screens",
