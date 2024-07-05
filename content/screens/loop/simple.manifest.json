@@ -9,23 +9,23 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1720188177613,
+  "timestamp": 1720188646970,
   "entries": [
     {
       "path": "/content/screens/loop/simple.html",
-      "timestamp": 1697532125000
+      "timestamp": 1720188187000
     },
     {
       "path": "/scripts/lib-franklin.js",
-      "timestamp": 1696405374000
+      "timestamp": 1720188186000
     },
     {
       "path": "/scripts/scripts.js",
-      "timestamp": 1696405374000
+      "timestamp": 1720188186000
     },
     {
       "path": "/styles/styles.css",
-      "timestamp": 1696405374000
+      "timestamp": 1720188187000
     },
     {
       "path": "/content/screens/assets/media_158a2007a4dc4182580c7ce28b4d92dd2e1239321.mp4",
@@ -45,35 +45,35 @@
     },
     {
       "path": "/scripts/delayed.js",
-      "timestamp": 1696405374000
+      "timestamp": 1720188186000
     },
     {
       "path": "/blocks/columns/columns.css",
-      "timestamp": 1696403991000
+      "timestamp": 1720188185000
     },
     {
       "path": "/blocks/columns/columns.js",
-      "timestamp": 1696403990000
+      "timestamp": 1720188185000
     },
     {
       "path": "/blocks/menutable/menutable.js",
-      "timestamp": 1696405374000
+      "timestamp": 1720188185000
     },
     {
       "path": "/blocks/menutable/menutable.css",
-      "timestamp": 1696405374000
+      "timestamp": 1720188185000
     },
     {
       "path": "/blocks/menutable/qrcode.min.js",
-      "timestamp": 1696405374000
+      "timestamp": 1720188185000
     },
     {
       "path": "/blocks/loop/loop.js",
-      "timestamp": 1696405373000
+      "timestamp": 1720188185000
     },
     {
       "path": "/blocks/loop/loop.css",
-      "timestamp": 1696405374000
+      "timestamp": 1720188185000
     }
   ]
 }
